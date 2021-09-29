@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 From above, added
 I will merge two sentences from below and above using merges
+=======
+I will merge two sentences from below and above using merges
+From below
+>>>>>>> origin/Branch_2
